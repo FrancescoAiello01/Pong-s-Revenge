@@ -2,6 +2,8 @@
 
 Pong's Revenge is a spinoff of Atari's classic arcade game Pong. It uses OpenFrameworks for image processing and is written in C++.
 
+## License ##
+
    Copyright 2018 Francesco Aiello
 
    Licensed under the Apache License, Version 2.0 (the "License");
